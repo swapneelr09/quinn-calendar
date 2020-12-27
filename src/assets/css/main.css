@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+	vertical-align: baseline;
+    outline: 0;
+    font-family: 'Roboto', sans-serif;
+}
+/* HTML5 display-role reset for older browsers */
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.date-animation{
+    animation: appear 2s;
+}
+
+@keyframes appear{
+    from {opacity: 0.01}
+    to {opacity: 1}
+}
+
+.Cu{
+    background-color: #F4DFEB;
+}
+
+.Pr{
+    background-color: #DDEBF1;
+}
+
+.HC{
+    background-color: #FDECCD;
+}
+
+.DC{
+    background-color: #F6D0E5;
+}
+
+.C{
+    background-color: #DED2F6;
+}

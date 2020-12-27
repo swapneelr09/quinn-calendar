@@ -1,0 +1,33 @@
+#Body .week-row{
+    display: flex;
+    margin: 0 25%;
+    padding: 0;
+}
+
+#Body .day{
+    height: 14.5vh;
+    width: 9vw;
+    border: 1px solid black;
+    /* background-color: blueviolet; */
+    font-size: 25px;
+    float: right;
+}
+
+#Body .day-element{
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+#Body .sunday{
+    background-color: #E4E6E8;
+}
+
+#Body .opaque{
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+#Body .highlight-today{
+    color: red;
+}

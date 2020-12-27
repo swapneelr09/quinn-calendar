@@ -1,0 +1,52 @@
+
+
+#Calender .header-container{
+    margin: 0;
+    /* background-color: aqua; */
+    box-shadow:0px 1px 3px 0px rgba(0,0,0,0.15);
+    padding: 10px 25% 0px;
+    font-size: 25px;
+}
+
+#Calender .month{
+    font-weight: 900;
+    
+}
+
+#Calender .week-row{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+#Calender .week-item{
+    padding: 5px 15px;
+    width: 10vw;
+    padding-bottom: 5px;
+}
+
+#Calender .current-date{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Calender .today-btn{
+    background-color: cadetblue;
+    padding: 0px 20px;
+    border-radius: 10px;
+    font-size: small;
+    font-weight: 700;
+    margin-right: 15px;
+}
+
+#Calender .day-btn{
+    background-color: cadetblue;
+    border-radius: 10px;
+    font-size: small;
+    font-weight: 900;
+    cursor: pointer;
+}
+#Calender .day-btn:hover,#Calender .today-btn:hover{
+    background-color: grey;
+}
