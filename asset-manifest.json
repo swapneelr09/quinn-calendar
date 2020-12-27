@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quinn-calendar/static/css/main.a17aad74.chunk.css",
+    "main.js": "/quinn-calendar/static/js/main.4dea0836.chunk.js",
+    "main.js.map": "/quinn-calendar/static/js/main.4dea0836.chunk.js.map",
+    "runtime-main.js": "/quinn-calendar/static/js/runtime-main.c41c7d70.js",
+    "runtime-main.js.map": "/quinn-calendar/static/js/runtime-main.c41c7d70.js.map",
+    "static/js/2.51492f33.chunk.js": "/quinn-calendar/static/js/2.51492f33.chunk.js",
+    "static/js/2.51492f33.chunk.js.map": "/quinn-calendar/static/js/2.51492f33.chunk.js.map",
+    "static/js/3.30e3c996.chunk.js": "/quinn-calendar/static/js/3.30e3c996.chunk.js",
+    "static/js/3.30e3c996.chunk.js.map": "/quinn-calendar/static/js/3.30e3c996.chunk.js.map",
+    "index.html": "/quinn-calendar/index.html",
+    "static/css/main.a17aad74.chunk.css.map": "/quinn-calendar/static/css/main.a17aad74.chunk.css.map",
+    "static/js/2.51492f33.chunk.js.LICENSE.txt": "/quinn-calendar/static/js/2.51492f33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41c7d70.js",
+    "static/js/2.51492f33.chunk.js",
+    "static/css/main.a17aad74.chunk.css",
+    "static/js/main.4dea0836.chunk.js"
+  ]
+}
